@@ -1,6 +1,6 @@
 language : java
 
 script :
-  - mvn clean package tomee:run
+  - mvn clean package tomee:build
 
 
