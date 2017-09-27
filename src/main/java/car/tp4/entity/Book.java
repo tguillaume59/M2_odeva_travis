@@ -1,4 +1,4 @@
-surprise ca marche plus du tout ;
+
 package car.tp4.entity;
 
 import javax.persistence.GeneratedValue;
